@@ -131,7 +131,7 @@ change the **TARGET_PLOT** to choose which plot you want to see during simulatio
 ### Pure Pursuit Controller  
 * Trajectory Tracking
 ![v=10m/s](https://github.com/djh1995555/VehicleControl/blob/master/image_folder/gif/pure_pursuit_10.gif)
-![v=15m/s](https://github.com/djh1995555/VehicleControl/blob/master/image_folder/gif/pure_pursuit_10.gif) 
+![v=15m/s](https://github.com/djh1995555/VehicleControl/blob/master/image_folder/gif/pure_pursuit_15.gif) 
 * Velocity and Heading Tracking(working in process)  
 ![v=10m/s](https://github.com/djh1995555/VehicleControl/blob/master/image_folder/gif/Pure_Pursuit_10_v.gif)
 ![v=10m/s](https://github.com/djh1995555/VehicleControl/blob/master/image_folder/gif/Pure_Pursuit_10_yaw.gif)
